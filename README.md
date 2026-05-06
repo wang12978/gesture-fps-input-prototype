@@ -26,3 +26,6 @@ The project investigates whether static hand gestures can be used as an input me
 
 ```bash
 pip install -r requirements.txt
+```
+3. Run the Python gesture recognition script.
+4. Start the Unity scene.
